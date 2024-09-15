@@ -4,7 +4,10 @@ body {
   background-color: #1c1a1a;
   overflow: hidden; /* Prevent scrollbars */
 }
- 
+
+h1{
+  color:aliceblue;
+}
  
 header {
   position: absolute;
